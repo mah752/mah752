@@ -19,7 +19,9 @@
 
 - 📫 How to reach me **hmaryan86@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maryanh752/](https://www.linkedin.com/in/maryanh752/) [https://www.https://devpost.com/hmaryan86/] (https://wwww.https://devpost.com/hmaryan86/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maryanh752/](https://www.linkedin.com/in/maryanh752/)
+
+-👨‍💻 View the hackathons I've taken taken part in! [https://www.https://devpost.com/hmaryan86/] (https://wwww.https://devpost.com/hmaryan86/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
