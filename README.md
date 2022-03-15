@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [IWD hackathon project](https://github.com/IWD-2022-Team4/)
 
-- 🤝 I’m looking for help with [improving my portfolio](https://friendly-jepsen-ce702e.netlify.app/)
+- 🤝 I’m looking for help with [improving my portfolio](https://friendly-jepsen-ce702e.netlify.app/) 
 
 - 👨‍💻 All of my projects are available at [https://friendly-jepsen-ce702e.netlify.app/](https://friendly-jepsen-ce702e.netlify.app/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **hmaryan86@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maryanh752/](https://www.linkedin.com/in/maryanh752/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/maryanh752/](https://www.linkedin.com/in/maryanh752/) [https://www.https://devpost.com/hmaryan86/] (https://wwww.https://devpost.com/hmaryan86/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
