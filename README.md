@@ -21,9 +21,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maryanh752/](https://www.linkedin.com/in/maryanh752/)
 
--👨‍💻 View the hackathons I've taken taken part in! [https://www.https://devpost.com/hmaryan86/](https://wwww.https://devpost.com/hmaryan86/)
+-👨‍💻 View the hackathons I've taken taken part in! [Devpost](https://wwww.
+devpost.com/hmaryan86/)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/maryanh752" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maryanh752" height="30" width="40" /></a>
 <a href="https://codesandbox.com/hmaryan86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hmaryan86" height="30" width="40" /></a>
