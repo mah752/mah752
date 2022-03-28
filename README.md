@@ -21,7 +21,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/maryanh752/](https://www.linkedin.com/in/maryanh752/)
 
--👨‍💻 View the hackathons I've taken taken part in! [Devpost](https://wwww.
+-👨‍💻 View the hackathons I've taken taken part in! [Devpost](https://w
+ww.
 devpost.com/hmaryan86/)
 
 <h3 align="left">Connect with me:</h3>
