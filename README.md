@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mah752" alt="mah752" /></a> </p>
 
-- 🔭 I’m currently working on [A react Weather App](https://heuristic-shaw-a37fd4.netlify.app/)
+- 🔭 I’m currently working on [A react dictionary App](https://unique-scone-304c39.netlify.app/)
 
 - 🌱 I’m currently learning **Javascript and React!**
 
