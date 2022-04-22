@@ -9,17 +9,13 @@
 
 - 🌱 I’m currently learning **Javascript and React!**
 
-- 👯 I’m looking to collaborate on [IWD hackathon project](https://github.com/IWD-2022-Team4/)
+- 🤝 I’m looking for help with [my react weather app](https://heuristic-shaw-a37fd4.netlify.app/) 
 
-- 🤝 I’m looking for help with [improving my portfolio](https://friendly-jepsen-ce702e.netlify.app/) 
+- 👨‍💻 All of my projects are available at [My porfolio website](https://maryanhdev.net//)
 
-- 👨‍💻 All of my projects are available at [https://friendly-jepsen-ce702e.netlify.app/](https://friendly-jepsen-ce702e.netlify.app/)
+- 💬 Ask me about **HTML, CSS, Javascript & React**
 
-- 💬 Ask me about **HTML & CSS**
-
-- 📫 How to reach me **hmaryan86@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/maryanh752/](https://www.linkedin.com/in/maryanh752/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/maryanh752/)
 
 -👨‍💻 View the hackathons I've taken taken part in! [Devpost](https://www.devpost.com/hmaryan86/)
 
