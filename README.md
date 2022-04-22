@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm interested in transitioning into tech and participating in hackathons. I love Kdramas, summer (I hate being cold!) and cheesecake. </h1>
-<h3 align="center">I am an inspiring front-end developer</h3>
+<h3 align="center">I am an inspiring front-end developer and UX/UI Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mah752&label=Profile%20views&color=0e75b6&style=flat" alt="mah752" /> </p>
 
